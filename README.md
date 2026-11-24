@@ -1,5 +1,4 @@
-# first-setup
-create gitHub account and add some skills 
+
 
 
 <h1 align="center">Hi 👋, I'm Saidul Islam</h1>
